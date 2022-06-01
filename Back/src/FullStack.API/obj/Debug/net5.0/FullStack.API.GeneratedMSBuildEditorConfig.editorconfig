@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = FullStack.API
-build_property.ProjectDir = d:\Projetos\Udemy\FullStack\Back\src\FullStack.API\
+build_property.ProjectDir = D:\Projetos\Udemy\FullStack\Back\src\FullStack.API\
